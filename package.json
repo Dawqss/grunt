@@ -1,0 +1,21 @@
+{
+  "name": "dawid-grunt",
+  "version": "1.0.0",
+  "description": "first grunt inicialization",
+  "main": "index.js",
+  "scripts": {
+    "test": "dawid-test"
+  },
+  "keywords": [
+    "grunt"
+  ],
+  "author": "Dawid Wyrkowski",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-browser-sync": "^2.2.0",
+    "grunt-contrib-sass": "^1.0.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-sass": "^1.2.1"
+  }
+}
